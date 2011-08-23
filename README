@@ -5,7 +5,12 @@ Welcome to NEW DEAL IRC!
 
 === INSTALLATION INSTRUCTIONS ===
 
-There are none, this doesn't work yet 
+No install at this point, just perl newdeal.pl
+
+Note that you will need some curses libraries installed
+
+At the moment it connects to a hardcoded local server and doesn't show anything
+useful since I still don't understand how to manipulate curses properly
 
 === ABOUT THIS PROJECT ===
 
