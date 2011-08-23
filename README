@@ -1,0 +1,45 @@
+Welcome to NEW DEAL IRC!
+
+~*In Memory Of the Spirit of FDR's Desire To Make The USA A Great Nation*~
+   ~* You Know, With Liberty and Justice for ALL, not just the top 2%*~
+
+=== INSTALLATION INSTRUCTIONS ===
+
+There are none, this doesn't work yet 
+
+=== ABOUT THIS PROJECT ===
+
+The goal of this is, well, first and foremost so I can learn how to use
+git and version control, and also so I can learn perl. I can't wait to scrap
+everything and go back to the superior python when it drives me nuts.
+
+As for the spirit of the project, I am a fan of irssi, but not a fan of how
+you need to memorize a million commands and use miles long cheat sheets to do
+what should be simple things. The goal is to make an IRC client that may not
+include every bell and whistle for hardcore users, but provides the user hints
+and makes use of modern features like 256 color terminals and mouse support
+(the former required to run and the latter not required, but nice) via things
+like colored user names, popups, and color coding
+
+=== ROADMAP ===
+
+Milestone 1
+Basic protocol support
+
+Milestone 2
+256 color support and requirement
+
+Milestone 3
+Basic UI such as being able to chat, join channels
+
+Milestone 4
+Advanced UI features such as popover notifications, top menu
+
+Milestone 5
+Color themes, language packs
+
+Milestone 6
+Mobile/limited input view
+
+Milestone 7
+Scripting support
